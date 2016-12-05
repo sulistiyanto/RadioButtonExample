@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Radio Button Example</string>
+    <string name="male">Laki - Laki</string>
+    <string name="female">Perempuan</string>
+    <string name="display">Tampilkan</string>
+</resources>
